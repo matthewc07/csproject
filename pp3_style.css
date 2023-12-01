@@ -129,3 +129,13 @@ iframe {
     display: inline-block;
     padding: 20px;
 }
+
+.hangman {
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 700px;
+    padding-bottom: 20px;
+    border: 2px solid #0B133D;
+    width: 500px;
+    text-align: center;
+}
